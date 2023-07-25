@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ELAMURUHU/react-form-task.git/static/css/main.53eab657.css",
-    "main.js": "/ELAMURUHU/react-form-task.git/static/js/main.45942912.js",
-    "static/js/787.b38eb9a5.chunk.js": "/ELAMURUHU/react-form-task.git/static/js/787.b38eb9a5.chunk.js",
-    "index.html": "/ELAMURUHU/react-form-task.git/index.html",
-    "main.53eab657.css.map": "/ELAMURUHU/react-form-task.git/static/css/main.53eab657.css.map",
-    "main.45942912.js.map": "/ELAMURUHU/react-form-task.git/static/js/main.45942912.js.map",
-    "787.b38eb9a5.chunk.js.map": "/ELAMURUHU/react-form-task.git/static/js/787.b38eb9a5.chunk.js.map"
+    "main.css": "/elamuruhu/react-form-task.git/static/css/main.53eab657.css",
+    "main.js": "/elamuruhu/react-form-task.git/static/js/main.3364371a.js",
+    "static/js/787.b38eb9a5.chunk.js": "/elamuruhu/react-form-task.git/static/js/787.b38eb9a5.chunk.js",
+    "index.html": "/elamuruhu/react-form-task.git/index.html",
+    "main.53eab657.css.map": "/elamuruhu/react-form-task.git/static/css/main.53eab657.css.map",
+    "main.3364371a.js.map": "/elamuruhu/react-form-task.git/static/js/main.3364371a.js.map",
+    "787.b38eb9a5.chunk.js.map": "/elamuruhu/react-form-task.git/static/js/787.b38eb9a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53eab657.css",
-    "static/js/main.45942912.js"
+    "static/js/main.3364371a.js"
   ]
 }
