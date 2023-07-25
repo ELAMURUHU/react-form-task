@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ELAMURUHU/react-form-task.git/static/css/main.53eab657.css",
+    "main.js": "/ELAMURUHU/react-form-task.git/static/js/main.a14087d9.js",
+    "static/js/787.b38eb9a5.chunk.js": "/ELAMURUHU/react-form-task.git/static/js/787.b38eb9a5.chunk.js",
+    "index.html": "/ELAMURUHU/react-form-task.git/index.html",
+    "main.53eab657.css.map": "/ELAMURUHU/react-form-task.git/static/css/main.53eab657.css.map",
+    "main.a14087d9.js.map": "/ELAMURUHU/react-form-task.git/static/js/main.a14087d9.js.map",
+    "787.b38eb9a5.chunk.js.map": "/ELAMURUHU/react-form-task.git/static/js/787.b38eb9a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53eab657.css",
+    "static/js/main.a14087d9.js"
+  ]
+}
